@@ -10,7 +10,7 @@ const LINKS = [
     { name: 'Instagram',        url: 'https://www.instagram.com', pin: true },
     { name: 'Seznam',        url: 'https://www.seznam.cz',},
     { name: 'E-mail',        url: 'https://email.seznam.cz/?u=63137687', pin: true },
-    { name: 'Gemini',      url: 'https://gemini.google.com/app?hl=cs',},
+    { name: 'Gemini',      url: 'https://gemini.google.com/app?hl=cs', pin: true},
     { name: 'Škola Onlice',      url: 'https://aplikace.skolaonline.cz/SOL/App/Spolecne/KZZ010_RychlyPrehled.aspx#', pin: true },
   ]},
   { group: 'Práce a vývoj', items: [
