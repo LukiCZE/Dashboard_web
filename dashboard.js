@@ -47,6 +47,7 @@ const LINKS = [
     { name: 'Netflix', url: 'https://www.netflix.com' },
     { name: 'Spotify', url: 'https://open.spotify.com' },
     { name: 'Twitch',  url: 'https://www.twitch.tv' },
+    { name: 'Kick',  url: 'https://www.twitch.tv' },
     { name: 'Reddit',  url: 'https://www.reddit.com' },
   ]},
   { group: 'Nákupy', items: [
